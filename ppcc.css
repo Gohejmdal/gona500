@@ -1,9 +1,10 @@
 html {
+	
 background-image: url(https://cdn.discordapp.com/attachments/1057191261083279382/1106292042142863390/4_1-2.png);
-    background-size: cover!important;
+	background-size: cover!important;
     background-attachment: fixed;
     background-position: center center;
-    height: auto !important;
+	
 }
 
 body {
