@@ -1,5 +1,4 @@
 html {
-
 background-image: url(https://cdn.discordapp.com/attachments/1057191261083279382/1106292042142863390/4_1-2.png);
     background-size: cover!important;
     background-attachment: fixed;
@@ -8,13 +7,9 @@ background-image: url(https://cdn.discordapp.com/attachments/1057191261083279382
 }
 
 body {
-
 letter-spacing: -0.05em !important;
-
   background: transparent;
-
   font-family: 'Dovemayo_gothic', woff2;
-
 }
 
 /* 사용자 설정 부분 */
@@ -769,15 +764,9 @@ input[type='text']
 }
 
 header {
-
  height: 85px;
-
  background: url(https://cdn.discordapp.com/attachments/1057191261083279382/1106282455180255242/8e4bbbfd5eff3422.png) no-repeat;
-
  background-size: contain;
-
  background-position: center;
-
  margin-bottom: 60px;
-
 }
